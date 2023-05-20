@@ -1,0 +1,27 @@
+Make the page into half, with the slider effect
+U CAN MAKE IT LOOK LIKE A DAHBOARD WHEN NOT LOGGED IN / U CAN DO IT FOR THE FOLLOWERS FOLLOWING PART!
+Hyperplexed's video: https://www.youtube.com/watch?v=zGKNMm4L-r4
+
+Maybe if u **hover on a user** u can get his fname and lname
+
+Make a game page for when the user goes into the wrong URL...maybe with the anime.js background thing...put the hacker effect also
+
+Make sure that if a page is empty, it shows a message of nothing present
+
+Be careful while reading input values, they cud clash with the other page's input values
+
+I have added conditions in the "func" function, just check them once if u face a problem
+
+The reports should only be seen by the admin, and the admin should be able to delete the post
+
+Dont forget to show the success messages, after some event occurs
+
+The banned words should be capital insensitive, also alert in the post is nessecary
+
+The checkauth should check if the token is correspoding to the same user or not : YATHARTH
+
+Im counting the visits in a subGreddiit by counting the number of getPosts calls, be careful to not call it somewhere else
+
+Banned user even in saved posts
+
+The search is recursive, it acts on the current subGs persent on the page
